@@ -40,8 +40,8 @@ Were you able to achieve the target model performance?
 After adding a third layer, the model accuracy fell suggesting that the model became over fit. My second attempt was most successful but unfortunately just lower than 70%. 
 
 What steps did you take to try and increase model performance?
+
 I tried adding another layer and adjusting the number of neurons. To build accuracy, increasing the number of epochs would likely be a good idea though there's risk of overfitting. 
 
 ## Summary
-There is a summary of the results (2 pt)
-There is a recommendation on using a different model to solve the classification problem, and justification (3 pt)
+My model got to 69% accuracy. I would recommend fine tuning the number of neurons and perhaps using a different activation function. 
