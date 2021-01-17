@@ -25,19 +25,22 @@ How many neurons, layers, and activation functions did you select for your neura
 First Attempt: 
 * 2 layers; Layer One = 10 neurons, Layer 2 = 20 neurons
 
-![First Attempt Screenshot] (
+![First Attempt Screenshot](https://github.com/jamesdemott/Neural_Networks/blob/main/Screenshots/First_Model_Eval.png)
 
 Second Attempt: 
 * 2 layers; Layer one = 60 neurons, Layer 2 = 25 neurons
-![Second Attemtp Screenshot] (
+![Second Attemtp Screenshot](https://github.com/jamesdemott/Neural_Networks/blob/main/Screenshots/Second_Model_Eval.png)
 
+Third Attempt: 
+* 3 layers; Layer one = 50 neurons, Layer 2 = 25 neurons, Layer 3 = 15 neurons
+
+![Thid attempt Screenshot](https://github.com/jamesdemott/Neural_Networks/blob/main/Screenshots/Third_Model_Eval.png)
 
 Were you able to achieve the target model performance?
-
-
+After adding a third layer, the model accuracy fell suggesting that the model became over fit. My second attempt was most successful but unfortunately just lower than 70%. 
 
 What steps did you take to try and increase model performance?
-
+I tried adding another layer and adjusting the number of neurons. To build accuracy, increasing the number of epochs would likely be a good idea though there's risk of overfitting. 
 
 ## Summary
 There is a summary of the results (2 pt)
